@@ -1,0 +1,29 @@
+.row{
+    padding: 0%;
+    margin: 0%;
+}
+
+.btn-primary{
+    background: #003B67;
+}
+
+.btn-primary:hover{
+    background: #003B67;
+    opacity: 85%;
+}
+
+.btn{
+    outline:none; border-style: none;
+}
+
+.btn:active{
+    outline:none; border-style: none;
+}
+
+.btn:hover{
+    outline:none; border-style: none;
+}
+
+.minpagecontent{
+    min-height: 500px;
+}
