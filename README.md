@@ -1,25 +1,8 @@
 # SATFA Automatización de Tesis
 
 ## Descripción
-Es bien sabido que entre las mejores recomendaciones que un programador amateur puede recibir para mejorar sus habilidades es 
-“crear aplicaciones”, sin darle tanta importancia a la temática a elaborar, sino que solo basta con un problema para desarrollar una solución digital.
 
-- Almacenar roommates nuevos ocupando [random user](https://randomuser.me/api).
-- Devolver todos los roommates almacenados.
-- Registrar nuevos gastos.
-- Devolver el historial de gastos registrados.
-- Modificar la información correspondiente a un gasto.
-- Eliminar gastos del historial.
-
- ### las rutas que debe contener son:
-- / GET: Debe devolver el documento HTML disponible en el apoyo.
-- /roommate POST: Almacena un nuevo roommate ocupando random user.
-- /roommate GET: Devuelve todos los roommates almacenados.
-- /gastos GET: Devuelve el historial con todos los gastos registrados.
-- /gasto PUT: Edita los datos de un gasto.
-- /gasto DELETE: Elimina un gasto del historial.
-
-
+Sistema web que permite a los alumnos realizar la documentación de su tesis de fin de carrera. El sistema facilita la creación de un documento que incluya la introducción y todos los elementos necesarios de una tesis, como el marco teórico, la metodología, los resultados y las conclusiones. El sistema también permite dos tipos de usuarios: docentes y alumnos. Los alumnos pueden añadir contenido a su tesis y los docentes pueden evaluarlo y dejar observaciones.
 
 ## Empezando 🚀
 
@@ -29,10 +12,12 @@ Estas instrucciones te guiarán para obtener una copia de este proyecto en funci
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
 
--  "express": "^4.19.2",
--  "node": "^18.0.4",
--  "axios": "^1.6.8",
--  "nodemon": "^3.1.0"
+- Django==2.2.13
+- Pillow==7.2.0
+- pkg-resources==0.0.0
+- psycopg2==2.8.5
+- pytz==2020.1
+- sqlparse==0.3.1
 
         
 ### Instalación 🔧
