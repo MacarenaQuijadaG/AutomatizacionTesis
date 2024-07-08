@@ -25,7 +25,7 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
 
 #paso 1
-se instalan las dependencias que se encuentran en .gitignore luego de clonar el repositorio y luego 
+se instalan las dependencias que se encuentran en .gitignore luego de clonar el repositorio
 
 ## Despliegue 📦
 
