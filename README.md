@@ -1,6 +1,6 @@
 # SATFA Automatización de Tesis
 
-## Descripción
+## Descripción 
 
 Sistema web que permite a los alumnos realizar la documentación de su tesis de fin de carrera. El sistema facilita la creación de un documento que incluya la introducción y todos los elementos necesarios de una tesis, como el marco teórico, la metodología, los resultados y las conclusiones. El sistema también permite dos tipos de usuarios: docentes y alumnos. Los alumnos pueden añadir contenido a su tesis y los docentes pueden evaluarlo y dejar observaciones.
 
